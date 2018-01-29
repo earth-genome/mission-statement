@@ -17,3 +17,9 @@ Hundreds of millions of people read stories supported by Earth imagery,  hundred
 
 ## Behavior and Interventions
 
+|  **Behavior** | **Intervention**  |
+|---|---|
+| Journalists search for imagery. | Marketing through social media. A *lot* of imagery is produced and tagged.  |
+| Journalists purchase imagery. |  License and payment systems that are already familiar to journalists. |
+| Readers engage with the story. | Visually appealing, well-designed, and interactive.  Two-source authentication for trust. |
+| **Outcome** | Normal people consume imagery.  |
