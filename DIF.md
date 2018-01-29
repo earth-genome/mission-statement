@@ -13,11 +13,13 @@ We will achieve our mission by identifying and licensing satellite imagery that 
 ## Outcome
 *What we will measure to prove it works.*
 
-Hundreds of millions of people read stories supported by Earth imagery,  hundreds of outlets regularly rely on our content.
+Hundreds of millions of people read stories supported by Earth imagery, and hundreds of outlets regularly rely on our content.
 
 **Is this enough?**
 
-> Economists that specifically study transactions with environmental externalities have proven, both in theory and in practice, the value of open information toward a more equitable and efficient allocation of natural resources.  People have won Nobel Prizes for this sort of thing.  The decision contexts are disparate, and the solutions therefore don’t easily scale.  However, open information is a common, necessary condition across all of the disparate contexts.  And it scales.  Open information is not sufficient for saving the world; but it’s a good, broad, and important start.
+> Economists that specifically study transactions with environmental externalities have proven, both in theory and in practice, the value of open information toward a more equitable and efficient allocation of natural resources.  People have won Nobel Prizes for this sort of thing.  The decision contexts are disparate, and the solutions therefore don’t easily scale.  However, open information is a common, necessary condition across all of the disparate contexts.  And it scales.  Open information is not sufficient for saving the world; but it’s a good, broad, and important start. 
+
+> As Kevin Starr says, impact is "not what happens between the ears," but rather "action in the real world."  We agree. Ultimately it is about changing behavior.  Still, a necessary component of change is that people are well-informed about environmental change and motivated to do something about it.  Information is the common component across the custom contexts 
 
 ## Behavior and Interventions
 
