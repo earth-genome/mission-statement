@@ -35,7 +35,8 @@ Hundreds of millions of people read stories supported by Earth imagery, and hund
 
 ## Model
 *What is the mechanism we can create and scale up?*
-We will operate as a revenue-generating organization -- a business.  We create imagery across different story contexts through deep learning, computer vision, and natural language processing.  Machine learning.  Our model is rooted in teaching the machine to find gold in the exabytes of data from satellite imagery providers.
+
+We are a revenue-generating, nonprofit organization.  We create imagery across different story contexts through deep learning, computer vision, and natural language processing.  Machine learning.  Our model is rooted in teaching the machine to find gold in the exabytes of data from satellite imagery providers.
 
 > Our chosen structure as a 501(c)(3) nonprofit is mainly to do with the capital required to build the requisite technology.  This is highly sophisticated matching technology, which means we are squarely in competition with Facebook and Twitter for talent -- which is expensive.  However, our returns are not purely financial; most returns are environmental or social benefits of open information.  We are not an attractive early stage investment for venture capitalists; but we are an exceedingly good investment for **venture philantropists**.
 
