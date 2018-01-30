@@ -1,7 +1,7 @@
 # Design Iteration Form (DIF)
 *A short, one sentence description of our project / idea.*
 
-Overview News provides easy and simple access to satellite imagery for journalists.
+Overview News provides simple access to satellite imagery for journalists.
 
 ## Mission
 *8 words or less, with a verb, target and an outcome that can be measured.*
